@@ -1,4 +1,6 @@
 
+[![](https://images.microbadger.com/badges/image/thomasleduc/dynamodb-local.svg)](https://microbadger.com/images/thomasleduc/dynamodb-local)
+
 ## Build
 
 To build :
@@ -27,8 +29,4 @@ Assuming your dockerhost is `192.168.99.100` and you run the docker instance wit
 ```
 192.168.99.100:7777/shell
 ```
-
-## Image On dockerhub
-
-[![](https://images.microbadger.com/badges/image/thomasleduc/dynamodb-local.svg)](https://microbadger.com/images/thomasleduc/dynamodb-local)
 
